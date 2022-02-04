@@ -7,4 +7,5 @@
 - **Connecting Attributions and QA Model Behavior on Realistic Counterfactuals** [[Paper]](https://aclanthology.org/2021.emnlp-main.447.pdf)[[Code]](https://github.com/xiye17/EvalQAExpl)<br>Description: 
 - **Did the Model Understand the Question** [[Paper]](https://arxiv.org/pdf/1805.05492.pdf)<br>Description: 
 - **Hierarchical Neural Net Interpretations (ACD)** [[Paper]](https://arxiv.org/pdf/1806.05337.pdf)[[Code]](https://github.com/csinva/hierarchical-dnn-interpretations)<br>Description: 
+- **Connecting Attributions and QA Model Behavior on Realistic Counterfactuals** [[Paper]](https://arxiv.org/pdf/2104.04515.pdf)<br>Description: 
 
