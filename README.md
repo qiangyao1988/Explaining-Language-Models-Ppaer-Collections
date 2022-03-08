@@ -1,7 +1,11 @@
 #  Explaining Language Models Paper Collections
  This repo lists recent papers for Explaining Language Models.
 
-- 
+- Shapley values
+
+- Perturbation-based
+
+- Gradient-based
 
   - **Discretized Integrated Gradients for Explaining Language Models** [[Paper]](https://arxiv.org/pdf/2108.13654.pdf)[[Code]](https://github.com/INK-USC/DIG)<br>Description: 
 
@@ -21,6 +25,7 @@
 
   - **Attention Weights in Transformer NMT Fail Aligning Words Between Sequences but Largely Explain Model Predictions** [[Paper]](https://arxiv.org/pdf/2109.05853.pdf)<br>Description: 
 
-  - **Rethinking Attention-Model Explainability through Faithfulness Violation Test** [[Paper]](https://arxiv.org/pdf/2201.12114.pdf)<br>Description: 
-
+  - **Rethinking Attention-Model Explainability through Faithfulness Violation Test** [[Paper]](https://arxiv.org/pdf/2201.12114.pdf)<br>Description: 4
+  
+    
 
