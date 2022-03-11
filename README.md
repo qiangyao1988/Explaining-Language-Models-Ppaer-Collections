@@ -25,7 +25,9 @@
 
   - **Attention Weights in Transformer NMT Fail Aligning Words Between Sequences but Largely Explain Model Predictions** [[Paper]](https://arxiv.org/pdf/2109.05853.pdf)<br>Description: 
 
-  - **Rethinking Attention-Model Explainability through Faithfulness Violation Test** [[Paper]](https://arxiv.org/pdf/2201.12114.pdf)<br>Description: 4
+  - **Rethinking Attention-Model Explainability through Faithfulness Violation Test** [[Paper]](https://arxiv.org/pdf/2201.12114.pdf)<br>Description: 
+  
+  - **Attention Weights in Transformer NMT Fail Aligning Words Between Sequences but Largely Explain Model Predictions** [[Paper]](https://arxiv.org/pdf/2109.05853.pdf<br>Description: 
   
     
 
