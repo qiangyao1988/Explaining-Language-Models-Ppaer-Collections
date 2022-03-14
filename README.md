@@ -27,7 +27,9 @@
 
   - **Rethinking Attention-Model Explainability through Faithfulness Violation Test** [[Paper]](https://arxiv.org/pdf/2201.12114.pdf)<br>Description: 
   
-  - **Attention Weights in Transformer NMT Fail Aligning Words Between Sequences but Largely Explain Model Predictions** [[Paper]](https://arxiv.org/pdf/2109.05853.pdf<br>Description: 
+  - **Attention Weights in Transformer NMT Fail Aligning Words Between Sequences but Largely Explain Model Predictions** [[Paper]](https://arxiv.org/pdf/2109.05853.pdf)<br>Description: 
+  
+  - **Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization** [[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)<br>Description: 
   
     
 
