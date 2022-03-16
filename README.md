@@ -33,5 +33,7 @@
   
   - **Explaining Information Flow Inside Vision Transformers Using Markov Chain** [[Paper]](https://openreview.net/pdf?id=TT-cf6QSDaQ)<br>Description: 
   
+  - **Multi-Head Attention with Disagreement Regularization** [[Paper]](https://arxiv.org/pdf/1810.10183.pdf)<br>Description: 
+  
     
 
