@@ -37,5 +37,7 @@
   
   - **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** [[Paper]](https://arxiv.org/pdf/1905.09418.pdf?ref=https://githubhelp.com)<br>Description: 
   
+  - **On Exploring Attention-based Explanation for Transformer Models in Text Classification** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671639&casa_token=jZTxTSWcw68AAAAA:EOJF6h4voDY4l_E3WGVPaNEi3OkcX2m3yJpyGDIwb1IgH19KvZV08wm8uz7Exm7myWB2luc)<br>Description: 
+  
     
 
