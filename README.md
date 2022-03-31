@@ -35,5 +35,7 @@
   
   - **Multi-Head Attention with Disagreement Regularization** [[Paper]](https://arxiv.org/pdf/1810.10183.pdf)<br>Description: 
   
+  - **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** [[Paper]](https://arxiv.org/pdf/1905.09418.pdf?ref=https://githubhelp.com)<br>Description: 
+  
     
 
