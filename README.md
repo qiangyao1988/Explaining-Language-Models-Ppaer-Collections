@@ -39,5 +39,7 @@
   
   - **On Exploring Attention-based Explanation for Transformer Models in Text Classification** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9671639&casa_token=jZTxTSWcw68AAAAA:EOJF6h4voDY4l_E3WGVPaNEi3OkcX2m3yJpyGDIwb1IgH19KvZV08wm8uz7Exm7myWB2luc)<br>Description: 
   
+  - **Mutual Information Preserving Back-propagation: Learn to Invert for Faithful Attribution** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467310)<br>Description: 
+  
     
 
