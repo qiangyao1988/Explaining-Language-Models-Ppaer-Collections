@@ -41,5 +41,9 @@
   
   - **Mutual Information Preserving Back-propagation: Learn to Invert for Faithful Attribution** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467310)<br>Description: 
   
+  - **Self-Attention Attribution: Interpreting Information Interactions Inside Transformer**[[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-10151.HaoY.pdf.pdf)<br>Description: 
+  
+    
+    
     
 
