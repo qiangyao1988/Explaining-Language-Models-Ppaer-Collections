@@ -43,6 +43,8 @@
   
   - **Self-Attention Attribution: Interpreting Information Interactions Inside Transformer**[[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-10151.HaoY.pdf.pdf)<br>Description: 
   
+  - **LRP-based Method for Transformer Interpretability**[[Paper]](https://openreview.net/pdf?id=rBHej2zm2AK)<br>Description: 
+  
     
     
     
