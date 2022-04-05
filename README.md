@@ -47,6 +47,8 @@
   
   - **Transformer Interpretability Beyond Attention Visualization**[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf)<br>Description: 
   
+  - **Generic Attention-Model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers**[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chefer_Generic_Attention-Model_Explainability_for_Interpreting_Bi-Modal_and_Encoder-Decoder_Transformers_ICCV_2021_paper.pdf)<br>Description: 
+  
     
     
     
