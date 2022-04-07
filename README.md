@@ -51,6 +51,8 @@
   
   - **XAI for Transformers Better Explanations through Conservative**[[Paper]](https://arxiv.org/pdf/2202.07304.pdf)<br>Description: 
   
+  - **AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models**[[Paper]](https://arxiv.org/pdf/1909.09251.pdf)<br>Description: 
+  
     
     
     
