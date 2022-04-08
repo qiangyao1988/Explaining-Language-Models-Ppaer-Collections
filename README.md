@@ -53,6 +53,8 @@
   
   - **AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models**[[Paper]](https://arxiv.org/pdf/1909.09251.pdf)<br>Description: 
   
+  - **A Diagnostic Study of Explainability Techniques for Text Classification**[[Paper]](https://arxiv.org/pdf/2009.13295.pdf)<br>Description: 
+  
     
     
     
