@@ -57,6 +57,8 @@
   
   - **A General Taylor Framework for Unifying and Revisiting Attribution Methods**[[Paper]](https://arxiv.org/pdf/2105.13841.pdf)<br>Description: 
   
+  - **Learning Important Features Through Propagating Activation Differences**[[Paper]](http://proceedings.mlr.press/v70/shrikumar17a/shrikumar17a.pdf)<br>Description: 
+  
     
     
     
