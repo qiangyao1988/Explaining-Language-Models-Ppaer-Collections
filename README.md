@@ -59,6 +59,8 @@
   
   - **Learning Important Features Through Propagating Activation Differences**[[Paper]](http://proceedings.mlr.press/v70/shrikumar17a/shrikumar17a.pdf)<br>Description: 
   
+  - **Learning to Explain: An Information-Theoretic Perspective on Model Interpretation**[[Paper]](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf.pdf)<br>Description: 
+  
     
     
     
