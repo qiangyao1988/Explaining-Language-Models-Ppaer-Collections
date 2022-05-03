@@ -61,6 +61,10 @@
   
   - **Learning to Explain: An Information-Theoretic Perspective on Model Interpretation**[[Paper]](http://proceedings.mlr.press/v80/chen18j/chen18j.pdf.pdf)<br>Description: 
   
+  - **Influence Patterns for Explaining Information Flow in BERT**[[Paper]](https://arxiv.org/pdf/2011.00740.pdf)<br>Description: 
+  
+    
+    
     
     
     
